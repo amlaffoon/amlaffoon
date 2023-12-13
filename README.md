@@ -3,7 +3,7 @@ I have professional experience as a software developer, as well as a background 
 I'm interested in fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills.
 
 ### Technologies I'm Exploring
-~
+#  
 I've used these professionally, or I've worked with them in personal/class projects:
 
 1. C#/.NET  
