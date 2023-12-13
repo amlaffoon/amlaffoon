@@ -1,9 +1,9 @@
 ### Hi, I'm Anna! 
 I have professional experience as a software developer, as well as a background in the field of higher education.
-I'm interested in fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills.
-
+I'm interested in fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills.  
+#   
 ### Technologies I'm Exploring
-#  
+  
 I've used these professionally, or I've worked with them in personal/class projects:
 
 1. C#/.NET  
