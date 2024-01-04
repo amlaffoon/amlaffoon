@@ -21,7 +21,7 @@ I've used these professionally, or I've worked with them in personal/class proje
    -Chai  
 3. HTML & CSS  
    -Bulma  
-   -Bootstrap
+   -Bootstrap 
    -HTML5 Canvas 
 5. SQL  
    -SQL Server  
