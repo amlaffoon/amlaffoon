@@ -16,7 +16,7 @@ I've used these professionally, or I've worked with them in personal/class proje
    -Vuex  
    -React.js  
    -Node.js  
-   -Express.js
+   -Express.js    
    -jQuery     
    -Mocha.js  
    -Chai  
