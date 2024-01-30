@@ -23,28 +23,29 @@ I've used these professionally, or I've worked with them in personal/class proje
 4. HTML & CSS  
    -Bulma  
    -Bootstrap   
+   -SASS           
    -HTML5 Canvas 
-5. SQL  
+6. SQL  
    -SQL Server  
    -MySQL  
    -MySQL Workbench  
    -SQLite  
-6. Python  
+7. Python  
    -Pandas  
    -NumPy  
    -Jupyter Notebook  
    -Django  
    -Flask  
-7. Git, Github  
-8. REST APIs  
+8. Git, Github  
+9. REST APIs  
    -Insomnia  
    -Postman  
-9. WordPress  
+10. WordPress  
    -WooCommerce  
    -PHP  
-10. Anthology (CampusNexus)  
-11. Salesforce  
-12. Moodle
+11. Anthology (CampusNexus)  
+12. Salesforce  
+13. Moodle
 
 #   
    
