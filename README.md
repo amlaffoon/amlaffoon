@@ -46,6 +46,7 @@ I've used these professionally, or I've worked with them in personal/class proje
 11. Anthology (CampusNexus)  
 12. Salesforce  
 13. Moodle
+14. Slate
 
 #   
    
