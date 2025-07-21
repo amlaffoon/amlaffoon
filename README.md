@@ -23,7 +23,8 @@ I've used these professionally, or I've worked with them in personal/class proje
 4. HTML & CSS  
    -Bulma  
    -Bootstrap   
-   -SASS           
+   -SASS
+   -Tailwind   
    -HTML5 Canvas 
 6. SQL  
    -SQL Server  
@@ -41,12 +42,13 @@ I've used these professionally, or I've worked with them in personal/class proje
    -Insomnia  
    -Postman  
 10. WordPress  
-   -WooCommerce  
-   -PHP  
-11. Anthology (CampusNexus)  
-12. Salesforce  
-13. Moodle
-14. Slate
+   -WooCommerce
+  -WPE
+   -Divi 
+12. Anthology (CampusNexus)  
+13. Salesforce  
+14. Moodle
+15. Slate
 
 #   
    
