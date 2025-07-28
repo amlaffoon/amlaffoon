@@ -52,5 +52,4 @@ I've used these professionally, or I've worked with them in personal/class proje
 
 #   
    
-
-##  📫 Contact me: [laffoonannam@gmail.com](mailto:laffoonannam@gmail.com)
+## Contact me: [alaffoon@proton.me](mailto:alaffoon@protone.me)
