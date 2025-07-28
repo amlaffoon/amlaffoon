@@ -42,9 +42,9 @@ I've used these professionally, or I've worked with them in personal/class proje
    -Insomnia  
    -Postman  
 10. WordPress  
-   -WooCommerce
-  -WPE
-   -Divi 
+   -WooCommerce  
+  -WPE  
+   -Divi   
 12. Anthology (CampusNexus)  
 13. Salesforce  
 14. Moodle
