@@ -50,7 +50,7 @@ I've used these professionally, or I've worked with them in personal/class proje
 14. Moodle
 15. Slate
 
-###You can always chat with me about:
+### You can always chat with me about:
 Lord of the Rings, The X-Files, food, horror movies, 20th-century literature
 
 #   
