@@ -49,6 +49,7 @@ I've used these professionally, or I've worked with them in personal/class proje
 13. Salesforce  
 14. Moodle
 15. Slate
+16. ChatGPT
 
 ### You can always chat with me about:
 Lord of the Rings, The X-Files, food, horror movies, 20th-century literature
