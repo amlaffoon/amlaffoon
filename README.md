@@ -1,6 +1,9 @@
 ## Hi, I'm Anna! 
 I have professional experience as a software developer, as well as a background in the field of higher education. I received my Bachelor of Science in English and Psychology, and later completed 4 semesters of Code Louisville (now Code: You) learning JavaScript, C#, and Python.
-I'm interested in front end, back end, and/or fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills.  
+I'm interested in front end, back end, and/or fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills. 
+
+[Substack Portfolio](https://annamakes.substack.com/p/welcome)
+
 #   
 ### Technologies I'm Exploring
   
