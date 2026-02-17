@@ -1,58 +1,20 @@
 ## Hi, I'm Anna! 
-I have professional experience as a software developer, as well as a background in the field of higher education. I received my Bachelor of Science in English and Psychology, and later completed 4 semesters of Code Louisville (now Code: You) learning JavaScript, C#, and Python.
-I'm interested in front end, back end, and/or fullstack development, and currently I'm seeking junior/entry-level positions to further develop my career and skills. 
+I am a software developer with a professional background in higher education. I hold a Bachelor of Science in English and Psychology and have completed a comprehensive software development program (Code: You), where I gained proficiency in JavaScript, C#, and Python.
+My interests include front-end, back-end, and full-stack development. I am currently seeking a junior-level position to apply my skills and contribute to a development team.
+ 
+### Technologies I Work With:
 
-[Substack Portfolio](https://annamakes.substack.com/p/welcome)
-
-#   
-### Technologies I'm Exploring
-  
-I've used these professionally, or I've worked with them in personal/class projects:
-
-1. C#/.NET  
-   -Razor Pages  
-   -WCF  
-   -EF Core  
-   -LINQ  
-2. JavaScript  
-   -Vue.js  
-   -Vuex  
-   -React.js  
-   -Node.js  
-   -Express.js    
-   -jQuery     
-   -Mocha.js  
-   -Chai  
-4. HTML & CSS  
-   -Bulma  
-   -Bootstrap   
-   -SASS
-   -Tailwind   
-   -HTML5 Canvas 
-6. SQL  
-   -SQL Server  
-   -MySQL  
-   -MySQL Workbench  
-   -SQLite  
-7. Python  
-   -Pandas  
-   -NumPy  
-   -Jupyter Notebook  
-   -Django  
-   -Flask  
-8. Git, Github  
-9. REST APIs  
-   -Insomnia  
-   -Postman  
-10. WordPress  
-   -WooCommerce  
-  -WPE  
-   -Divi   
-12. Anthology (CampusNexus)  
-13. Salesforce  
-14. Moodle
-15. Slate
-16. ChatGPT
+| Category               | Primary Stack | Secondary Technologies |
+| ---------------------- | ------------- | ---------------------- |
+| Languages & Frameworks | JavaScript | Python, SQL, C#, .NET  |
+| Frontend               | HTML5, CSS3, Vue.js, React.js | Razor Pages, SASS, HTML5 Canvas |
+| Backend                | Node.js, Express.js | ASP.NET Core, EF Core, LINQ, Django, Flask |
+| Databases & Data       | SQLite | MySQL, SQL Server, Pandas, NumPy |
+| CSS Frameworks         | Bootstrap, Bulma | Tailwind CSS |
+| Developer Tools        | Git, GitHub, Postman, Insomnia, Jupyter Notebook | Mocha.js, Chai |
+| CMS & Platforms        | Slate, WordPress | WooCommerce, Anthology SIS, Salesforce, Moodle
+| Concepts & Practices   | REST APIs, Git Version Control, Agile
+| Professional Tools | ClickUp, Slack, Microsoft Teams
 
 ### You can always chat with me about:
 Lord of the Rings, The X-Files, food, horror movies, 20th-century literature
