@@ -1,6 +1,8 @@
 ## Hi, I'm Anna! 
 I am a software developer with a professional background in higher education. I hold a Bachelor of Science in English and Psychology and have completed a comprehensive software development program (Code: You), where I gained proficiency in JavaScript, C#, and Python.
 My interests include front-end, back-end, and full-stack development. I am currently seeking a junior-level position to apply my skills and contribute to a development team.
+
+Portfolio: [Anna Codes](https://annacodes.carrd.co/)
  
 ### Technologies I Work With:
 
